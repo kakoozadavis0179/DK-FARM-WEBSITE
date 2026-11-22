@@ -115,4 +115,12 @@ footer {
     padding: 15px;
     color: #166534;
 }
+.whatsapp-button {
+    background-color: #25D366;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
 
